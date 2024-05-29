@@ -9,6 +9,6 @@ Panel de administración creado e implementado utilizando MERN Stack.
 
 ## Tech Stack
 
-**Client:** React, Redux Toolkit, Redux Toolkit Query, Material UIy Nivo Charts.
+**Client:** React, Redux Toolkit, Redux Toolkit Query, Material UI y Nivo Charts.
 
 **Server:** Node, Express, Mongoose y Mongo DB
